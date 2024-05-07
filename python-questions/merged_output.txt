@@ -1,0 +1,47 @@
+Contents of data.txt:
+segfewgewg t wegew ew eg ewgwe egegegwg egege ege ehe e ehh erh eg ergrrrrrrrrrrrrrreh eherh erherheree eheh rwrfngehwrj w5hwj rth rthrh rhrth rttttttttttttttttwth
+dfasf
+asf
+saf
+asfas
+fsaf
+asfasf
+asfasfas
+fsaffsa
+fsaffasf
+asfasfasf
+asf
+
+
+
+
+
+asfasfasfasf
+asfasfasfasfa
+
+Contents of poem.txt:
+In Flanders fields the poppies blow
+Between the crosses, row on row,
+That mark our place; and in the sky
+The larks, still bravely singing, fly
+Scarce heard amid the guns below.
+
+We are the Dead. Short days ago
+We lived, felt dawn, saw sunset glow,
+Loved and were loved, and now we lie
+In Flanders fields.
+
+Take up our quarrel with the foe:
+To you from failing hands we throw
+The torch; be yours to hold it high.
+If ye break faith with us who die
+We shall not sleep, though poppies grow
+In Flanders fields.
+
+Contents of story.txt:
+Once upon a time, there was a curious cat.
+  The cat loved to explore the neighborhood.
+123 One day, the cat found a shiny object.
+? The cat played with the object for hours.
+  At sunset, the cat returned home, content.
+
